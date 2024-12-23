@@ -4,7 +4,7 @@ import cohere
 
 app = Flask(__name__)
 CORS(app)
-cohere_api_key = os.getenv("COHERE_API_KEY")
+cohere_api_key = os.environ.get("COHERE_API_KEY")
 
 # Set your Cohere API key
 cohere_client = cohere.Client(cohere_api_key)  # Replace with your API key
