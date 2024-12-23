@@ -4,9 +4,10 @@ import cohere
 
 app = Flask(__name__)
 CORS(app)
+cohere_api_key = os.getenv("COHERE_API_KEY")
 
 # Set your Cohere API key
-cohere_client = cohere.Client("1JpCmhM5pMBKMkW3TfvERkbprpNw8JDEGD7S8uJm")  # Replace with your API key
+cohere_client = cohere.Client(cohere_api_key)  # Replace with your API key
 
 # Load resume text
 with open("data/resume.txt", "r") as file:
