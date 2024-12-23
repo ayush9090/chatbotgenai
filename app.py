@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify, Response
 from flask_cors import CORS
 import cohere
-
+import os
 app = Flask(__name__)
 CORS(app)
 cohere_api_key = os.environ.get("COHERE_API_KEY")
