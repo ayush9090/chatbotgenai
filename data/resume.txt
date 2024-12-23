@@ -1,0 +1,80 @@
+name:aYUSHKUMAR VARIYAVA
+ +1 (682) 374 8215 | email-axv3184@mavs.uta.edu |porfolio: ayushvariyava.com | github.com/ayush9090 | linkedin.com/in/ayush-variayava/
+ Result-driven graduate with 3+ years of work exp. seeking full-time roles (May ’24) in Front End
+ Engineer.
+ EDUCATION
+ University Of Texas At Arlington, MS in Computer Science | Texas, USA
+ Gujarat Technology University, B.Tech in Computer Engineering | Gujarat, India
+ EXPERIENCE
+ Mansfield Om Sai LLC, Full Stack Web Developer | Remote (Mansfield, Texas)
+ Aug 2022- May 2024
+ May 2017- Aug 2021
+ Sep 2024- Current
+ • Led the design and implementation of 10+ new features in a CRM platform, optimizing user engagement and
+ reducing bugs by 50%.
+ • Integrated external APIs and MySQL, reducing integration time by 15% and improving data retrieval efficiency by
+ 20%.
+ • Refined code reviews in React.js and .NET Core with C#, cutting bug occurrences by 20% and boosting developer
+ productivity by 10%.
+ • Created APIs and utilized DynamoDB for a data dashboard, enhancing insights by 25%.
+ • Developed pages with React.js and TypeScript, increasing user satisfaction by 30% and reducing load times by 2
+ seconds.
+ • Converted Figma designs to responsive web pages, increasing user engagement by 25%.
+ Saviom Software, Software Development Associate | Remote (Gujarat, India)
+ • Led .NET Core projects, increasing CRM system efficiency by 15%.
+ • Engineered UI components in React, enhancing load times and user interaction.
+ • Converted legacy VB code to C#, reducing technical debt by 30%.
+ • Created 10+ APIs and optimized SQL for a CRM dashboard, improving retrieval time by 40%.
+ Jun 2021- Jul 2022
+ • Built a mobile app in Swift with SQL Server, improving functionality and earning positive feedback from 90% of
+ users.
+ Indian Institute of Hardware Technology, Full-stack Developer | Remote (Gujarat, India)
+ Aug 2019- May 2021
+ • Formulate backend solutions with .NET Core and designed responsive front-end interfaces using HTML/CSS and
+ VanillaJS, boosting user engagement by 15%.
+ • Optimized SQL operations, increasing sales by 40%.
+ • Enhanced query efficiency using ES6, cutting page load time by 50%.
+ • Increased test coverage with Jest and Enzyme, reducing critical bugs by 20%.
+ • Developed responsive interfaces using JavaScript and Bootstrap, improving user satisfaction by 15%.
+ SKILLS
+ Languages:
+ Web Technologies:
+ Frameworks:
+ Software:
+ PROJECTS
+ JavaScript, Python, C/C++, C#, Java, Git, Bash, PHP
+ TensorFlow, AJAX, Node.js, Bootstrap, XML, JSON, Firebase, WordPress, SQL, AWS (S3, DynamoDB, API
+ Gateway, Lambda, Amplify), Vite, GitHub, Linux/SSH CLI, GitLab, MVC, Figma, npm, Babel, Webpack,
+ PostCSS, YAML, SEO
+ React.js, Express.js, Django, ASP.NET, Laravel, AngularJS
+ Visual Studio Code, Postman, Git, Slack, Docker, Kubernetes, Cisco Packet Tracer, PowerBI, Composer
+ ZTXHospitality– Comprehensive Hotel Hospitality Website
+ link: ZTX Hospitality Website
+ • Executed the ZTX Hospitality platform from inception to launch, integrating both frontend and backend func
+tionality that showcased over 50 client hotel properties; streamlined user interactions leading to a 40% increase in
+ bookings.
+ • Crafted a visually appealing and responsive frontend using React.js, boosting user engagement by 50% and reducing
+ bounce rate by 20%.
+ • Architected the backend using Node.js and Express.js, improving data management efficiency by 30% and reducing
+ server response time by 2 seconds.
+ • Launched the platform on a custom domain, set up official email accounts, and ensured secure, scalable hosting
+ with 99.9% uptime.
+TipsMagnet– QR Code-based Tipping System for Motels
+ link: Motel Page link:Landing
+ • Created TipsMagnet, a system allowing motels to receive tips via QR codes, increasing tip volume by 35% and
+ reducing transaction time by 15%.
+ • Designed the frontend using React.js, hosted on cPanel, ensuring a user-friendly interface that improved customer
+ satisfaction by 25%.
+ • Established the backend with Express.js and TypeScript, enhancing scalability by 40% and optimizing data storage
+ using AWS DynamoDB and S3.
+ • Rolled out the backend by deployment of a Civo Kubernetes cluster, ensuring high availability and reliability with
+ a 99.9% uptime guarantee.
+ Portfolio Website– Personal Information Showcase
+ link: portfolio
+ • Built a portfolio website using React.js and JSX to showcase skills and achievements, increasing portfolio visibility
+ by 50%.
+ • Implemented deployment using a Civo Kubernetes cluster, achieving 99.9% service uptime and seamless scaling to
+ meet increased user requests by over 150% during peak periods.
+ Automated Nearby Places Information Retrieval
+• Engineered a Node.js script using Puppeteer for web scraping, reducing manual information collection time by 80%
+ and improving data accuracy by 30%
